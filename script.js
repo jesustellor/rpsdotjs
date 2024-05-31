@@ -63,5 +63,4 @@ while(true) {
     userInput = getUserChoice();
     computerChoice = getComputerChoice();
     playGame();
-    console.log(playGame.ComputerScore, playGame.PlayerScore);
 }
